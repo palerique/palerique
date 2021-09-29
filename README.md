@@ -37,3 +37,7 @@
 ![Snake animation](https://github.com/palerique/palerique/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=palerique)](https://github.com/ryo-ma/github-profile-trophy)
+
+
